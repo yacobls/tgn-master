@@ -1,5 +1,5 @@
 {
-  "name": "tgn",
+  "name": "tgn-master",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yacobls/tgn.git"
+    "url": "git+https://github.com/yacobls/tgn-master.git"
   },
   "author": "Yacob",
   "license": "ISC",
@@ -25,9 +25,9 @@
     "validator": "^13.7.0"
   },
   "bugs": {
-    "url": "https://github.com/yacobls/tgn/issues"
+    "url": "https://github.com/yacobls/tgn-master/issues"
   },
-  "homepage": "https://github.com/yacobls/tgn#readme",
+  "homepage": "https://github.com/yacobls/tgn-master#readme",
   "devDependencies": {},
   "description": ""
 }
