@@ -53,6 +53,12 @@ app.get('/about', (req, res) => {
         title: 'About Page'});
 });
 
+app.get('/kantor-pajak', (req, res) => {
+    res.render('kantor-pajak' , { 
+        layout: 'layouts/kantor-pajak',
+        title: 'Kantor Pajak'});
+});
+
 app.use((req, res) => {
     res.status(404);
     res.send('<h1>404</>');
